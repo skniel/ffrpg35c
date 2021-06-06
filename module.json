@@ -3,7 +3,7 @@
 "title":"Final Fantasy 3.5 Compendium",
 "description":"Lista de Itens e programação para FFRPG 3.5 no Sandbox.",
 "author":"SK_Niel",
-"version":"1.0.0",
+"version":"1.0.1",
 "minimumCoreVersion":"0.7.9",
 "compatibleCoreVersion":"0.7.9",
 "packs": [
@@ -336,5 +336,8 @@
 "entity":"RollTable",
 "module":"ffrpg35c"
 }
-]
+],
+"url":"https://github.com/skniel/ffrpg35c",
+"manifest":"https://raw.githubusercontent.com/skniel/ffrpg35c/main/module.json?token=AUL6RWKXTWJFBNJ6TFEPWO3AXUGWQ",
+"download":"https://github.com/skniel/ffrpg35c/archive/refs/heads/main.zip"
 }
