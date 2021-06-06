@@ -3,9 +3,9 @@
 "title":"Final Fantasy 3.5 Compendium",
 "description":"Lista de Itens e programação para FFRPG 3.5 no Sandbox.",
 "author":"SK_Niel",
-"version":"1.0.1",
-"minimumCoreVersion":"0.7.9",
-"compatibleCoreVersion":"0.7.9",
+"version":"1.0.2",
+"minimumCoreVersion":"0.8.5",
+"compatibleCoreVersion":"0.8.5",
 "packs": [
 {
 "name":"acessorios",
